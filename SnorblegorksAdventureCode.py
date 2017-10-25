@@ -1,5 +1,6 @@
 #Eddie Lowe
 #Python Module Project
+#Works with Python 3.4.2 and Pygame 1.9.2
 
 import pygame, sys, math, time, random, os, copy
 from pygame.locals import*
